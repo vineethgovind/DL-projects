@@ -20,6 +20,8 @@ h)remove hyperlinks i)remove other characters
 
 10)Meaningless words removed and Short Description,Description columns dropped as all the info is merged in Combined description column
 
+11)Different levels of data augmentation was also done to provide the models with more data to work with
+
 THE ENTIRE PREPROCESSED DATA IS SAVED AS A PICKLE FILE.IF YOU DONT WANT TO RUN THE PREPROCESSING FROM SCRATCH(TAKES AROUND 4 HOURS) LOAD THE preprocesseddata.pkl USING A SIMILAR FORMAT AS BELOW:
 
 df=pd.read_pickle('preprocesseddata.pkl')
