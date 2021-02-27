@@ -7,21 +7,21 @@ During the process of incident assignments by L1 / L2 teams to functional groups
 The goal is to build a classifier that can classify the tickets by analyzing text
 
 Milestones:This project has 2 milestones. 
-Milestone:1.
-Problem interpretation
-Understand the data
-Make an abstract or an overview based on your approach
-Break the problem into smaller tasks
-Data analysis and preprocessing 
-Include any insightful visualization 
-Share and explain particularly meaningful features, interactions or summary of data
-Display examples to input in your model
-Explain changes to be incorporated into data so that it becomes ready for the model.
-Modeling-What kind of neural network you have used and why?
-What progress you have made towards your intended solution?
+Milestone 1:
+Problem interpretation,
+Understand the data,
+Make an abstract or an overview based on your approach,
+Break the problem into smaller tasks,
+Data analysis and preprocessing ,
+Include any insightful visualization ,
+Share and explain particularly meaningful features, interactions or summary of data,
+Display examples to input in your model,
+Explain changes to be incorporated into data so that it becomes ready for the model,
+Modeling-What kind of neural network you have used and why?,
+What progress you have made towards your intended solution?,
 
-2nd Milestone.
-Model evaluationDescribe how you will proceed with the analysis
-Compare different models and choose which model to use
-Do hyper-parameter tuning of your model
+2nd Milestone:
+Model evaluationDescribe how you will proceed with the analysis,
+Compare different models and choose which model to use,
+Do hyper-parameter tuning of your model,
 How will you build on your initial analysis to increase the accuracy of your model?
