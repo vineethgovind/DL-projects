@@ -1,4 +1,4 @@
-AUTOMATIC TICKET ASSIGNMENT(Capstone prokect for Post Graduate  Program in Artificial Intelligence and Machine Learning from University of Texas MCcombs )
+AUTOMATIC TICKET ASSIGNMENT (Capstone prokect for Post Graduate  Program in Artificial Intelligence and Machine Learning from University of Texas MCcombs )
 
 Project Description
 
