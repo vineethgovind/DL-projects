@@ -7,6 +7,7 @@ frequent word. Use the first 20 words from each review to speed up training,
 using a max vocab size of 10,000.
 As a convention, "0" does not stand for a specific word, but instead is used to
 encode any unknown word.
+
 Skills and Tools
 
-RNN LSTM 
+Word Embedding,LSTM 
